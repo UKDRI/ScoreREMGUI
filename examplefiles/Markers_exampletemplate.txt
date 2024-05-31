@@ -1,0 +1,7 @@
+Signal ID: User markers
+Start Time: 12/02/2020 22:15:08
+
+12.02.2020 22:15:00,000; Start
+12.02.2020 23:10:01,970; Lights Off
+13.02.2020 08:11:08,000; Lights On
+
