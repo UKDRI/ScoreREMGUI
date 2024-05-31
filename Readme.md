@@ -18,7 +18,7 @@ Please refer to the documentation and citation below for more details.
 
 ## Example Data
 
-The example templates for the Marker and hypnograms txt files can be found in public repositories containing example data for exploring the application:
+The example templates for the Marker and hypnograms txt files can be found in "examplefiles". Public repositories containing example EDF data for exploring the application can be found here:
 
 1. [Haaglanden Medisch Centrum sleep staging database](https://physionet.org/content/hmc-sleep-staging/1.1/)
 2. [Sleep-EDF Database Cassette PSG](https://www.physionet.org/content/sleep-edf/1.0.0/)
