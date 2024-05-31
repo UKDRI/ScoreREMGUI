@@ -12,8 +12,8 @@ ScoreREM is a user-friendly Matlab GUI that allows rapid annotation and quantifi
 - **ScoreREM Matlab:** 2023b or newer with signal processing toolbox to allow scoring and export of the labels and analysis results.
 - The automatic sleep staging and REM event detection is facilitated via Python language interpreter in Matlab and requires compatible Python 3.11.6 installation and supporting packages (YASA and MNE).
 
-We have provided the supporting documentation to help with the installation. Please run the given `.bat` file or read the instructions in “installation_help”.
-
+The application can be installed using the .mlappinstall file in src.
+We have provided the supporting documentation to help with the installation. Please run the given `.bat` file for installing Python 3.11.6 and the required packages or read the instructions in “installation support”.
 Please refer to the documentation and citation below for more details.
 
 ## Example Data
