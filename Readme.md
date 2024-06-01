@@ -14,12 +14,13 @@ ScoreREM is a user-friendly Matlab GUI that allows rapid annotation and quantifi
 - *The app allows manual scoring in the absense of the python installation*
 
 The application can be installed using the .mlappinstall file in src.
-We have provided the supporting documentation to help with the installation. Please run the given `.bat` file for installing Python 3.11.6 and the required packages or read the instructions in “installation support”.
+We have provided the supporting documentation to help with the installation. To install Python 3.11.6 and the required packages, read the instructions in [installation support](https://github.com/KiranKGR/ScoreREMGUI/blob/b506ea61ac68232449824155ee6347addf1230a7/installation_support/Installation_support.md).
+
 Please refer to the documentation and citation below for more details.
 
 ## Example Data
 
-The example templates for the Marker and hypnograms txt files can be found in "examplefiles". Public repositories containing example EDF data for exploring the application can be found here:
+The example templates for the Marker and hypnograms txt files can be found in [examplefiles](https://github.com/KiranKGR/ScoreREMGUI/tree/b506ea61ac68232449824155ee6347addf1230a7/examplefiles). Public repositories containing example EDF data for exploring the application can be found here:
 
 1. [Haaglanden Medisch Centrum sleep staging database](https://physionet.org/content/hmc-sleep-staging/1.1/)
 2. [Sleep-EDF Database Cassette PSG](https://www.physionet.org/content/sleep-edf/1.0.0/)
