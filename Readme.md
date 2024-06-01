@@ -14,7 +14,10 @@ ScoreREM is a user-friendly Matlab GUI that allows rapid annotation and quantifi
 - *The app allows manual scoring in the absense of the python installation*
 
 The application can be installed using the .mlappinstall file in src.
+
 We have provided the supporting documentation to help with the installation. To install Python 3.11.6 and the required packages, read the instructions in [installation support](https://github.com/KiranKGR/ScoreREMGUI/blob/b506ea61ac68232449824155ee6347addf1230a7/installation_support/Installation_support.md).
+
+The application requires 24 inch screen or over to display correctly.
 
 Please refer to the documentation and citation below for more details.
 
