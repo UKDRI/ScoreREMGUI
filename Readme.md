@@ -1,4 +1,4 @@
-# ScoreREM: A user friendly Matlab-GUI for rapid eye movement (REM) sleep microstructure annotation and quantification
+# ScoreREM: A user friendly Matlab-GUI for rapid eye movement (REM) sleep microstructure (Phasic/Tonic) annotation and quantification
 
 **Licence:**  
 ScoreREM Copyright (C) 2024 Kiran K G Ravindran. Refer to the License.txt for more details.
