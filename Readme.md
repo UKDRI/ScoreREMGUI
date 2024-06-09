@@ -19,7 +19,7 @@ We have provided the supporting documentation to help with the installation. To 
 
 The application requires 24 inch screen or over to display correctly.
 
-Please refer to the documentation and citation below for more details.
+Please refer to the documentation (Supplemental Materials of the citation below) and citation below for more details.
 
 ## Example Data
 
