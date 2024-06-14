@@ -23,8 +23,6 @@ If no supported Python installation is available, please follow the `Python` ins
 
 Further documentation on supported Python installation can be found [here](https://uk.mathworks.com/help/matlab/matlab_external/install-supported-python-implementation.html).
 
-The app will also work on other MATLAB versions from 2021a with supported Python installations. Please find the list [here](https://uk.mathworks.com/support/requirements/python-compatibility.html).
-
 ### Python:
 
 1. Download and install Python 3.11.6 from the following link: [Python-3.11.6-amd64.exe](https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe). 
