@@ -28,6 +28,9 @@ The example templates for the Marker and hypnograms txt files can be found in [e
 1. [Haaglanden Medisch Centrum sleep staging database](https://physionet.org/content/hmc-sleep-staging/1.1/)
 2. [Sleep-EDF Database Cassette PSG](https://www.physionet.org/content/sleep-edf/1.0.0/)
 
+## Acknowledgements
+This work was supported by the UK Dementia Research Institute, [award number UKDRI-7005], through UK DRI Ltd, principally funded by the UK Medical Research Council, and additional funding partner Alzheimer’s Society. The authors thank Dr Valeria Jaramillo, Dr Sara Wong, Giuseppe Atzori, and Marta Messina for their helpful feedback during software development and testing of the ScoreREM for user acceptability.
+
 ## Citation
 
 For any use of ScoreREM please cite:
