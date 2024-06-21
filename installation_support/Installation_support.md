@@ -83,4 +83,4 @@ Type `Python.exe` in the Windows search. Right-click on `Python.exe` and choose 
 8. Once this is successful, please open MATLAB and check the Python environment using `pyenv`. It should show the version as 3.11.
     - If it's not showing up, please restart the computer, open MATLAB, and try again.
 
-### After performing the installation and checks, the ScoreREM app can be installed by double clicking on the .mlappinstall file. (Note: When the app is started for the for the first time during a Matlab session, it checks the presence of python packages required which takes several minutes to perform. Further, Please check whether you PC has enough RAM space to perform)
+### After performing the installation and checks, the ScoreREM app can be installed by double clicking on the .mlappinstall file. (Note: When the app is started for the for the first time during a Matlab session, it checks the presence of python packages required which takes several minutes to perform. Further, Please check whether you PC has enough RAM space to perform the data import)
