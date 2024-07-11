@@ -34,5 +34,6 @@ This work was supported by the UK Dementia Research Institute, [award number UKD
 ## Citation
 
 For any use of ScoreREM please cite:
-### Preprint (See the DOI link or the Preprint folder): 
-G Ravindran, Kiran K. and Dijk, Derk-Jan, ScoreREM: A User-Friendly Matlab-GUI for Rapid Eye Movement (REM) Sleep Microstructure (Phasic/Tonic) Annotation and Quantification. Available at SSRN: https://ssrn.com/abstract=4882491 or http://dx.doi.org/10.2139/ssrn.4882491
+### Preprint 
+(For downloading the article follow the DOI link or go to the Preprint folder above)
+1. G Ravindran, Kiran K. and Dijk, Derk-Jan, ScoreREM: A User-Friendly Matlab-GUI for Rapid Eye Movement (REM) Sleep Microstructure (Phasic/Tonic) Annotation and Quantification. Available at SSRN: https://ssrn.com/abstract=4882491 or http://dx.doi.org/10.2139/ssrn.4882491
