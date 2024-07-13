@@ -37,3 +37,6 @@ For any use of ScoreREM please cite:
 ### Preprint 
 (For downloading the article follow the DOI link or go to the Preprint folder above)
 1. G Ravindran, Kiran K. and Dijk, Derk-Jan, ScoreREM: A User-Friendly Matlab-GUI for Rapid Eye Movement (REM) Sleep Microstructure (Phasic/Tonic) Annotation and Quantification. Available at SSRN: https://ssrn.com/abstract=4882491 or http://dx.doi.org/10.2139/ssrn.4882491
+
+## For general in-text referencing guidelines for softwares: 
+Katz DS, Chue Hong NP, Clark T et al. Recognizing the value of software: a software citation guide [version 2; peer review: 2 approved]. F1000Research 2021, 9:1257 (https://doi.org/10.12688/f1000research.26932.2)
