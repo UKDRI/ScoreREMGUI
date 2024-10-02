@@ -20,11 +20,12 @@ The default name of output folder of ScoreREM is 'ScoreREMdatafiles'
     Scored annotations with the time and date of scoring. Contains the annotations/labels in the format used by ScoreREM. The user can use the file to reload (using reload button) the labels and start from the location they left off; 
 2. "SN001_ScoreREMOutput.xlsx":
     Total 6 sheets, 
-    "Hypnogram" - Contains the hypnogram and label definition;    
+    "Hypnogram" - Contains the hypnogram and label definition;
+    "Unmodified Hypnogram" - Contains the hypnogram, Unmodified hypnogram and label definition;
     "Summary" - Contains the sleep summary measures with Phasic and Tonic measures as well. The estimates are between the recording start and end while its computed over the lights off period if a Marker file is used; 
     "EOG-L-NUM"	"EOG-R-NUM" - Annotated labels in numerical format;	
     "EOG-L-STR"	"EOG-R-STR" - Annotated labels in string format; 
-3. "SN001_ScoreREM_FullPSD_EEG C3-M2.xlsx"; "SN001_ScoreREM_FullPSD_EEG C4-M1.xlsx"; "SN001_ScoreREM_FullPSD_EEG F4-M1.xlsx"; "SN001_ScoreREM_FullPSD_EEG O2-M1.xlsx":
+4. "SN001_ScoreREM_FullPSD_EEG C3-M2.xlsx"; "SN001_ScoreREM_FullPSD_EEG C4-M1.xlsx"; "SN001_ScoreREM_FullPSD_EEG F4-M1.xlsx"; "SN001_ScoreREM_FullPSD_EEG O2-M1.xlsx":
     Contains the epoch wise Power spectral density of artefact free microepochs. The micro epochs are averaged over an epoch excluding the ones scored as Artefacts; 
-4. "SN001_ScoreREM_REMPSD_EEG C3-M2.xlsx"; "SN001_ScoreREM_REMPSD_EEG C4-M1.xlsx"; "SN001_ScoreREM_REMPSD_EEG F4-M1.xlsx"; "SN001_ScoreREM_REMPSD_EEG O2-M1.xlsx":
+5. "SN001_ScoreREM_REMPSD_EEG C3-M2.xlsx"; "SN001_ScoreREM_REMPSD_EEG C4-M1.xlsx"; "SN001_ScoreREM_REMPSD_EEG F4-M1.xlsx"; "SN001_ScoreREM_REMPSD_EEG O2-M1.xlsx":
     Contains the epoch wise Power spectral density of Tonic, Phasic and Artefact microepochs. The Tonic, Phasic and Artefact micro epochs are averaged over an epoch. 
