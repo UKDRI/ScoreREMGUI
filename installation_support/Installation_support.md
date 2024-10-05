@@ -46,7 +46,7 @@ Further documentation on supported Python installation can be found [here - Conf
 
 ![python](https://github.com/KiranKGR/ScoreREMGUI/assets/94359263/f15ce5ce-5235-42aa-83d3-ab4431d81f81)
 
-Type `Python.exe` in the Windows search. Right-click on `Python.exe` and choose "Open file location." Copy the path to the folder (see image below).
+Type `Python.exe` in the Windows search. Right-click on `Python.exe` and choose "Open file location." Copy the path to the folder (see image below). (Similar operations can performed in other OS's to get the path)
 
 ![copyfilepath](https://github.com/KiranKGR/ScoreREMGUI/assets/94359263/067edd7b-9fd8-4ee2-9136-ae5467d98e89)
 
