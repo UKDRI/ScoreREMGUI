@@ -84,3 +84,6 @@ Type `Python.exe` in the Windows search. Right-click on `Python.exe` and choose 
     - If it's not showing up, please restart the computer, open MATLAB, and try again.
 
 ### After performing the installation and checks, the ScoreREM app can be installed by double clicking on the .mlappinstall file. (Note: When the app is started for the for the first time during a Matlab session, it checks the presence of python packages required which takes several minutes to perform. Further, Please check whether you PC has enough RAM space to perform the data import)
+
+We have provided a [**standalone version of ScoreREM**](https://github.com/KiranKGR/ScoreREMGUI/tree/2ee7f8c4e502ad681c1b462a68c1353d61cdbf46/src/Standalone_App_for_redistribution) which works with the Matlab runtime.
+
