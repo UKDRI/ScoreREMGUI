@@ -4,7 +4,7 @@
 
 **Licence:** ScoreREM Copyright (C) 2024 Kiran K G Ravindran. Refer to the License.txt for more details.
 
-For smooth installation, please perform the tasks below as an Administrator.
+For smooth installation, please perform the tasks below as an Administrator. The instructions are provided for Windows Operating system (OS) with comments on how to perform the same checks in Mac and Linux based OS. For use in any OS, user needs to ensure python 3.11.6 and the supporting packages are installed, Matlab 2023b is installed and the python 3.11.6 is the version used by Matlab 2023b. Note: The ScoreREM will operate normally even without the python but the automated scoring options will be unavailable. 
 
 ### MATLAB:
 
