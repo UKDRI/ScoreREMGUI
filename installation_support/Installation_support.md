@@ -27,8 +27,10 @@ Further documentation on supported Python installation can be found [here - Conf
 
 1. Download and install Python 3.11.6 from the following link: [Python-3.11.6-amd64.exe](https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe). 
     - Choose "Add Python.exe to PATH" in the pop-up installer.
-In case of MacOS or Linux OS versions, please find and install Python 3.11.6 from [here](https://www.python.org/downloads/release/python-3116/)
-Installation instructions for Ubuntu can be found [here](https://www.geeksforgeeks.org/how-to-install-python-in-ubuntu/)
+
+-In case of MacOS or Linux OS versions, please find and install Python 3.11.6 from [here](https://www.python.org/downloads/release/python-3116/)
+
+-Installation instructions for Ubuntu can be found [here](https://www.geeksforgeeks.org/how-to-install-python-in-ubuntu/)
 
 2. Open a command prompt by typing `PowerShell` into the search bar in the Start menu and then clicking on PowerShell.
     - In MacOS / in Ubuntu use `Terminal` to perform the same checks.
@@ -48,7 +50,7 @@ Type `Python.exe` in the Windows search. Right-click on `Python.exe` and choose 
 
 ![copyfilepath](https://github.com/KiranKGR/ScoreREMGUI/assets/94359263/067edd7b-9fd8-4ee2-9136-ae5467d98e89)
 
-- Step 2: Add the python path to system environments (Find instructions for MacOS, [here](https://mac.install.guide/python/path) and for Linux, [here]())
+- Step 2: Add the python path to system environments (Find instructions for MacOS, [here](https://mac.install.guide/python/path) and for Linux, [here](https://stackoverflow.com/questions/18247333/pythonpath-on-linux))
 1. Type in "system env" and click on "edit system environment variables".
 
 ![system env](https://github.com/KiranKGR/ScoreREMGUI/assets/94359263/d8c467a4-4c79-4e47-883b-8dec749af6ab)
